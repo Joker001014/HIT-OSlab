@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "segment.h": "c",
+        "tty.h": "c"
+    }
+}

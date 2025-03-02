@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "semaphore.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "type_traits": "c",
+        "typeinfo": "c",
+        "stdio.h": "c"
+    }
+}
